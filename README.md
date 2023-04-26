@@ -5,6 +5,7 @@ Data Science project to predict the crowds over the next 3 days of a bus line in
 ![](/readme_images/image1.png)
 ![](/readme_images/image2.png)
 
+
 # Introduction
 Public transport is a key element to ensure urban mobility and allow citizens to move easily and efficiently in urban areas. However, managing the influx of passengers in public transport is a daily challenge for transport companies. In this context, predicting the number of passengers on bus lines is essential to optimize the planning, management and organization of the public transport service.
 In this report, we propose a methodology to predict the number of passengers on bus lines for the next 3 days. For this, we have a historical dataset including the number of passengers per day, per bus line and per type of bus line (day or night) for a period from April 05, 2019 to March 08, 2023. Our The objective is to develop a predictive tool that will enable transport companies to better manage passenger flows by anticipating peak periods and adapting their service offer accordingly.
